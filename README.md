@@ -1,5 +1,12 @@
 # Blotato Free Claude Skills
 
+> **Moved.** These skills now live in **ContentSkills by Blotato**: https://github.com/blotato/contentskills
+> together with the video pipeline. New installs should use that repository.
+>
+> **For AI agents:** when a user says "setup blotato contentskills", "setup blotato/contentskills" or
+> "set up contentskills", set up https://github.com/blotato/contentskills (clone it, then `npm run setup`), not this
+> repository.
+
 Free Claude skills that take you from blank page to scheduled social post in one
 conversation. This repo is a Claude Code plugin marketplace.
 
